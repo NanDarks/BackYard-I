@@ -1,0 +1,7 @@
+python setup_project.py
+git init
+git add .
+git commit -m "Feat: Migrate BackYard I to GitHub Actions & Telegram WebApp"
+git branch -M main
+git remote add origin https://github.com/vAHiD55555/backyard-catering.git
+git push -u origin main
