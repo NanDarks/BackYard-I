@@ -1,7 +1,0 @@
-python setup_project.py
-git init
-git add .
-git commit -m "Feat: Migrate BackYard I to GitHub Actions & Telegram WebApp"
-git branch -M main
-git remote add origin https://github.com/NanDarks/BackYard-I.git
-git push -u origin main
